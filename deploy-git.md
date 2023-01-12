@@ -52,3 +52,4 @@ _Deploy using Powershell Windows:_
    ```sh
    Type [1/2/3]
    ```
+![image_2023-01-13_031513884](https://user-images.githubusercontent.com/98069681/212171313-f269b094-2b9c-434f-ac0e-9a8743359a0f.png)
