@@ -29,10 +29,10 @@ _Deploy using Powershell Windows:_
    ```
 * Confirm _Identity Author_
    ```sh
-   --git config --global user.email"you@excample.com"
+   git config --global user.email "your@example.com"
    ```
    ```sh
-   --git config --global user.name "github name"
+   git config --global user.name "your name"
    ```
 * ```sh
    -m "message"
