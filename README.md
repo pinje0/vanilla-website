@@ -1,6 +1,5 @@
-<h1 align="center">Personal Website</h1> <br>
+<h1 align="center">Personal Website Vanilla</h1> <br>
 
-#### <a href="https://pinje.petani0.repl.co">Link to the website `[Replit]`</a>
 #### <a href="https://pinje-website.vercel.app">Link to the website `[Vercel]`</a> 
 
 
@@ -18,5 +17,4 @@ Im trying making it responsive as possible with `css query` only `(max-width: 50
 
 ## Hosting
 
-* <a href="https://replit.com/~">Replit</a>
 * <a href="https://vercel.com/~">Vercel</a>
